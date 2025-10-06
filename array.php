@@ -6,4 +6,6 @@
 // cara lama
 $hari = array("Senin", "Selasa", "Rabu" );
 print_r($hari);
-    
+
+$num = [1,2,3,4];
+echo $num[0];
